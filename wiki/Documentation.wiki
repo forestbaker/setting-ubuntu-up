@@ -27,8 +27,3 @@ It also focus on some spatial/geographical software (GIS, GDAL, PROJ4, etc.).
 *Settings*
   * Activate gedit's most interesting plugins
   * Set up some useful gedit preferences
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
