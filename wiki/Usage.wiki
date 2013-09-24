@@ -3,9 +3,14 @@
 
 = Introduction =
 
+If you use MS Windows, don't.
+
 This is a bash script.
 Download and write in a terminal:
 sh ./main.sh
+
+Even better: go through the script step by step. 
+Some commands might fail due to different system settings, or changes in software packages or repositories.
 
 
 = Details =
